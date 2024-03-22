@@ -1,4 +1,4 @@
-person_id,treated,numhh_list,female,age,race_white,hs_degree,college_degree,health_baseline,ever_medicaid,count_visit_dr,count_visit_er,out_of_pocket_spend,health_score,happy
+person_id,treated,numhh_list,female,age,race_white,hs_degree,college_degree,health_baseline,ever_medicaid,visit_dr,visit_er,out_of_pocket_spend,health_score,happy
 5,1,1,1,60,0,1,0,0,0,0,0,0,.13699999,1
 8,0,2,0,41,1,1,0,0,0,6,2,170,.112,1
 16,0,2,1,39,1,1,0,0,1,12,1,0,.033,1
